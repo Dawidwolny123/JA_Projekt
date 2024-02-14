@@ -1,0 +1,5 @@
+﻿  Assembling Quicksort.asm...
+  pch.cpp
+  dllmain.cpp
+     Creating library D:\ProfitProjects\Quicksort\Debug\QuicksortAsm.lib and object D:\ProfitProjects\Quicksort\Debug\QuicksortAsm.exp
+  QuicksortAsm.vcxproj -> D:\ProfitProjects\Quicksort\Debug\QuicksortAsm.dll

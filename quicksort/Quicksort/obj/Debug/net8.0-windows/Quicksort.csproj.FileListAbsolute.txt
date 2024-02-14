@@ -1,0 +1,17 @@
+D:\ProfitProjects\Quicksort\Quicksort\bin\Debug\net8.0-windows\Quicksort.exe
+D:\ProfitProjects\Quicksort\Quicksort\bin\Debug\net8.0-windows\Quicksort.deps.json
+D:\ProfitProjects\Quicksort\Quicksort\bin\Debug\net8.0-windows\Quicksort.runtimeconfig.json
+D:\ProfitProjects\Quicksort\Quicksort\bin\Debug\net8.0-windows\Quicksort.dll
+D:\ProfitProjects\Quicksort\Quicksort\bin\Debug\net8.0-windows\Quicksort.pdb
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.Form1.resources
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.csproj.GenerateResource.cache
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.AssemblyInfoInputs.cache
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.AssemblyInfo.cs
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.csproj.CoreCompileInputs.cache
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.dll
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\refint\Quicksort.dll
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.pdb
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.genruntimeconfig.cache
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\ref\Quicksort.dll
+D:\ProfitProjects\Quicksort\Quicksort\obj\Debug\net8.0-windows\Quicksort.sourcelink.json
